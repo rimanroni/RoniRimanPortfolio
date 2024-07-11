@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Font End Developer",
+        "name": "HTML CSS TAILWINDCSS BOOTSTRAP REACT",
+        "desc": "I am proficient in designing websites using HTML, CSS, TailwindCSS, Bootstrap, and React. My skills include creating responsive and visually appealing web pages, utilizing modern front-end frameworks and libraries. I have experience in developing user-friendly interfaces and ensuring cross-browser compatibility, making my web designs both functional and aesthetically pleasing."
+    },
+    {
+        "id": 2,
+        "title": "Back End Developer",
+        "name": "MONGODB NODE.JS EXPRESS.JS",
+        "desc": "I am proficient in developing websites using MongoDB, Node.js, and Express.js. My expertise includes building dynamic and robust back-end systems, creating RESTful APIs, and managing databases efficiently. I have experience in developing full-stack applications, ensuring seamless integration between front-end and back-end components, and delivering high-performance web solutions.                                "
+    },
+    {
+        "id": 3,
+        "title": "DESING  || WINDOWS  ",
+        "name": "FIGMA DESING || WINDOWS EXPEART ",
+        "desc": "I am skilled in designing websites using Figma and translating those designs into fully functional websites. Additionally, I am proficient in creating detailed and user-friendly Figma designs. Alongside my design capabilities, I am an expert in Windows, possessing extensive knowledge and experience in managing and troubleshooting Windows systems. This combination of design and technical skills enables me to deliver high-quality web solutions and provide expert support for Windows environments.                                 "
+    }
+]

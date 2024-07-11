@@ -1,0 +1,24 @@
+[
+    {   "id" : 1,
+        "title" :"My Education",
+        "cls" : "MERN Stack Development Student",
+        "clgName" : "Programming Hero 23 || PeopleNTach 24 ", 
+        "desc" : "I am a student of Programming Hero Batch 8, where I completed a course on the MERN Stack in 2023. Currently, I am undergoing three months of training in MERN Stack at PeopleNTech IT Center. This additional training has enhanced my skills in MongoDB, Express.js, React, and Node.js, providing me with hands-on experience and a deeper understanding of full-stack web development."
+    },
+   
+    {   "id" : 2,
+        "title" :"My Education",
+        "cls" : "Diploma in Computer Engineering",
+        "clgName" : "life line polytechnic institute thakurgaon/ 2020 - 2024", 
+        "desc" : "I successfully completed my studies in Computer Engineering from Life Line Polytechnic Institute, Thakurgaon. During my time at this institute, I gained extensive theoretical and practical knowledge in various aspects of computer engineering. The curriculum was well-structured, covering key areas such as programming, network systems, hardware engineering, and software development. Additionally, hands-on projects and practical lab sessions provided me with valuable real-world experience, preparing me for a professional career in the field of computer engineering."
+    },
+       
+    {   "id" : 3,
+    "title" :"My Education",
+    "cls" : "SSC Examination",
+    "clgName" : " Baliadangi Pilot Model High School 2015 || 2020  ", 
+    "desc" : "I completed my SSC (Secondary School Certificate) from Baliadangi Pilot Model High School in 2020, achieving a GPA of 4.17 in the Science stream. My education covered key subjects such as Physics, Chemistry, Biology, and Mathematics, which equipped me with a strong foundation in scientific concepts and analytical skills. This accomplishment highlights my commitment to academic excellence and hard work during my high school years."
+}
+    
+    
+]
