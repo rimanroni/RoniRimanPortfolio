@@ -14,11 +14,11 @@ const Headers = () => {
     return (
         <div id='header' className='py-4 px-8   bg-textColor   ' >
              <div  className='   mx-auto items-center flex justify-between'>
-                 <div className="object-cover">
+                 <div className="object-cover hidden lg:block">
                    <img src="/images/logo.png" alt="" className="w-[80px]" />
                  </div>
                  <div>
-                    <ul className="tracking-wide text-base font-bold   flex items-center text-white ">
+                    <ul className="tracking-wide text-base font-bold ml-8 lg:ml-0 flex items-center text-white ">
                        {
                         navItems.map((item)=>(
                             <motion.p key={item.link}
@@ -41,7 +41,7 @@ const Headers = () => {
                         initial={{x:-10, opacity:0}}
                         animate={{x:1,opacity:100}}
                         transition={{duration:.2, delay:.3}}
-                        className="bg-btnColor opacity-90 hover:opacity-100 rounded text-white px-2 py-1"><Link
+                        className="bg-btnColor opacity-90 hover:opacity-100 rounded ml-4 lg:ml-0  text-white px-2 py-1"><Link
                         to={'resume'}
                                 smooth={true}
                                 offset={-80}

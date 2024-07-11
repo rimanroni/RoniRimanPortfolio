@@ -17,7 +17,7 @@ const Resume = () => {
         animate={{y:0, opacity:1}}
         transition={{duration:.2, delay:.9}}
         >
-            <h1 className='text-center text-3xl font-bold'>A summary of My Resume</h1>
+            <h1 className='text-center text-2xl lg:text-3xl font-bold'>A summary of My Resume</h1>
 
             <div className='flex  py-12 px-4 justify-center items-center'>
                 <div className='grid grid-cols-1 lg:grid-cols-2 gap-5'>

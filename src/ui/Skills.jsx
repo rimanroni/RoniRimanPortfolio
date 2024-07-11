@@ -28,7 +28,7 @@ const Skills = () => {
                 data.map((item)=>(
                     <div
                     className='shadow-lg
-                    hover:translate-x-4
+                    hover:translate-y-4
                     space-y-3 px-4 py-2 hover:cursor-pointer hover:bg-gray-700 duration-500 hover:text-white group'
                     
                     key={item.id}>
