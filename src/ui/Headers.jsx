@@ -41,7 +41,7 @@ const Headers = () => {
                         initial={{x:-10, opacity:0}}
                         animate={{x:1,opacity:100}}
                         transition={{duration:.2, delay:.3}}
-                        className="bg-btnColor opacity-90 hover:opacity-100 rounded ml-4 lg:ml-0  text-white px-2 py-1"><Link
+                        className="bg-btnColor opacity-90 hover:opacity-100 rounded ml-4 lg:text-base  text-xs lg:ml-0 font-thin lg:font-semibold text-white px-2 py-1"><Link
                         to={'resume'}
                                 smooth={true}
                                 offset={-80}
